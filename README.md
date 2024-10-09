@@ -25,5 +25,3 @@ Part 4
     Chosen shader: Bump mapping
     I would use this shader on the track to make the track feel like it has more textures like a normal road/track would have. With the slider, the amount of bump can be
     calibrated to fit the needs of this game. This shader does not change the geometry of the object, but how the lighting and shading works. 
-
-asaass
