@@ -2,6 +2,7 @@
 
 Sajid Muhtasim 
 100743250 - 1+0+0+7+4+3+2+5+0 = 22 (EVEN)
+Build 2022.3.45f1
  
 Part 1
     Game: ExciteBike
@@ -14,12 +15,16 @@ Part 2
     How it works?
         Toon shader works by taking different diffuse values based on the light direction to output flat colors. 
         The diffuse lighting will be the brightest where the normal of the surface and the lighting direction is coming from, according to lecture notes. 
+    Usage here
+        Toon shading can be used on this entire game as the game is a pixelated retro game. Specifically, toon shading can be applied to the motorist (main character).
 
 Part 3
     Color correction
         This is a process where the colors of each individual pixels are changed in order to change the feel of a scenery. According to the lecture notes, it is used
-        to set the mood for a game or film. An example of this is using a sepia filter over a game to change the vibes of it. 
+        to set the mood for a game or film. An example of this is using a sepia filter over a game to change the vibes of it. It is also used for accessibility features 
+        for colorblind modes. 
     How it works?
+    
 
 Part 4
     Chosen shader: Bump mapping
